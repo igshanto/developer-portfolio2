@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary{
+    color: #151414;
+}
+
+.btn-primary{
+    width: 160px;
+    height: 64px;
+    border: 0;
+    background-color: orangered;
+}
+/* header and navigation styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.nav-title{
+    font-weight: 700;
+    font-size: 65px;
+}
+.nav-discription{
+    font-weight: 400;
+    font-size: 16px;
+}
+.text-primary{
+    color: #151414;
+}
+.banner-head{
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+}
+.banner-discription{
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+}
+/* banner styles */
+.banner{
+    display: flex;
+    margin: 0 200px;
+}
